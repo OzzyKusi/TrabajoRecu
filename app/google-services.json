@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406940134726",
+    "firebase_url": "https://trabajorecu-2c723-default-rtdb.firebaseio.com",
+    "project_id": "trabajorecu-2c723",
+    "storage_bucket": "trabajorecu-2c723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406940134726:android:9f86fa2928eef8336d4947",
+        "android_client_info": {
+          "package_name": "com.example.trabajorecu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406940134726-8u08iu5f0215c4v1tva49docj28nqrus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__1X5eb61dyrPRu3XvFfrqMwOdAFs2zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406940134726-8u08iu5f0215c4v1tva49docj28nqrus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
